@@ -194,6 +194,10 @@ img {
         width: 100%;
     }
 
+    .why-us img {
+        height: 100%;
+    }
+
     .why-us .col-right {
         margin-top: 42px;
     }
