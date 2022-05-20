@@ -139,6 +139,10 @@ img {
 
  @media screen and (max-width:480px) {
 
+    img {
+        height: 250px;
+    }
+    
     h3 {
         font-size: 2rem;
     }
@@ -177,10 +181,6 @@ img {
 
     .why-us h2 {
         font-size: 3rem;
-    }
-
-    .why-us h3 {
-        font-size: 2rem;
     }
 
     .why-us {
